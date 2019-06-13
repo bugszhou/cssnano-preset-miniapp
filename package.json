@@ -1,6 +1,6 @@
 {
   "name": "cssnano-preset-miniapp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "小程序cssnano preset",
   "main": "src/cjs.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziu-templates/cssnano-preset-miniapp.git"
+    "url": "git+https://github.com/bugszhou/cssnano-preset-miniapp.git"
   },
   "keywords": [
     "weapp",
