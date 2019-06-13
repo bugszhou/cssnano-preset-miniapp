@@ -1,0 +1,24 @@
+{
+  "name": "cssnano-preset-miniapp",
+  "version": "1.0.0",
+  "description": "小程序cssnano preset",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziu-templates/cssnano-preset-miniapp.git"
+  },
+  "keywords": [
+    "weapp",
+    "aliapp",
+    "swan"
+  ],
+  "author": "bugszhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziu-templates/cssnano-preset-miniapp/issues"
+  },
+  "homepage": "https://github.com/ziu-templates/cssnano-preset-miniapp#readme"
+}
