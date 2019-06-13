@@ -1,8 +1,8 @@
 {
   "name": "cssnano-preset-miniapp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "小程序cssnano preset",
-  "main": "src/index.js",
+  "main": "src/cjs.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
